@@ -1,0 +1,17 @@
+base
+glue
+rio
+tidyverse
+ggplot2
+tibble
+tidyr
+readr
+purrr
+dplyr
+stringr
+forcats
+pracma
+RColorBrewer
+magrittr
+fivethirtyeight
+knitr
